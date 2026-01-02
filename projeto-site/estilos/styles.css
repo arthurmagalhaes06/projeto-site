@@ -16,3 +16,13 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.527);
 }
+img.js {
+    width: 40%;
+    height: auto;
+    float: right;
+}
+img.html {
+    width: 30%;
+    height: auto;
+    float: right;
+}
