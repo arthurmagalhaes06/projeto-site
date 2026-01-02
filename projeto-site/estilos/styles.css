@@ -11,10 +11,10 @@ body {
 }
 main {
     background-color: rgb(17, 104, 89);
-    width: 500px;
+    width: 600px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.527);
+    padding: 30px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.801);
 }
 img.js {
     width: 40%;
@@ -24,5 +24,9 @@ img.js {
 img.html {
     width: 30%;
     height: auto;
-    float: right;
+    float: right; 
+}
+a.back img {
+    width: 100px;
+    height: auto;
 }
